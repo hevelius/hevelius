@@ -1,7 +1,7 @@
-Hi there 👋 I'm Mario (the name of the most famous plumber in the world 😅)
+Hi there 👋 I'm Mario (the name of the most well-known plumber in the entire universe 😅)
 
-But wait! I'm a software engineer 👨‍💻 and an enthusiastic programmer 🙃
+But hold on! I'm a software engineer 👨‍💻 and a typescript fan 🙃
 
-🚴 I love to ride a bike and I'm a ❤️ Tai Chi ☯️ student and climber
+I enjoy climbing ❤️ and studying Tai Chi ☯️ in addition to riding 🚴 my bike.
 
 ![](https://github-readme-stats.vercel.app/api?username=hevelius&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false)<br/>
