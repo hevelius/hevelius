@@ -1,5 +1,5 @@
-Hello there 👋 I'm Mario (the name of the universe's most well-known plumber 😅)
+Hello there 👋 I'm Mario, the most well-known plumber in the world.
 
-I'm a typescript 🙃 enthusiast and a 👨‍💻 software engineer.
+I am a software developer and a big fan of blockchain technology.
 
 ![](https://github-readme-stats.vercel.app/api?username=hevelius&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false)<br/>
