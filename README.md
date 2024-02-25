@@ -1,6 +1,8 @@
 Hello there! 👋 I’m a passionate Software Engineer dedicated 
 to exploring and leveraging the latest technologies to build 
-impactful solutions. With a keen interest in 
+impactful solutions. 
+
+With a keen interest in 
 the ever-evolving mobile landscape, 
 I’m currently engrossed in developing projects 
 related to digital identity wallets, aiming to 
